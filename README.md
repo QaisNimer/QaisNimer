@@ -78,21 +78,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=QaisNimer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/QaisNimer/count.svg?"  />
-</div>
-
-###
 
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM253Z2R1enh3YXVvbG83ZXVpc3UwZ2w5YmpxeDJ2Z2R5NTVmd2RncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4c6ZBsl1JYUNO/giphy.gif"  />
