@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">I'm Qais Nimer, a Full-Stack Developer from Amman, Jordan, specializing in ASP.NET Core, ASP.NET MVC, and Angular.<br>🔭 I’m working as a .NET Full-Stack Developer Intern at AppTrainers and previously at Dinarak.<br><br>📚 I'm currently learning advanced Angular practices, secure RESTful API development, and scalable architecture patterns.<br><br>⚡ In my free time, I build personal projects, contribute to GitHub, and enhance my skills in frontend/backend integration.</h3>
+<h3 align="left">I'm Qais Nimer, a Full-Stack Developer from Amman, Jordan, specializing in ASP.NET Core, ASP.NET MVC, and Angular.<br>🔭 I’m working as a .NET Full-Stack Developer at MTS and previously as an Intern at AppTrainers and Dinarak.<br><br>📚 I'm currently learning advanced Angular practices, secure RESTful API development, and scalable architecture patterns.<br><br>⚡ In my free time, I build personal projects, contribute to GitHub, and enhance my skills in frontend/backend integration.</h3>
 
 ###
 
